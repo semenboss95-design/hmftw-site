@@ -1,0 +1,60 @@
+{
+    "source":  "copart",
+    "built_at":  "2026-10-23T08:16:27.877112+00:00",
+    "db_revision":  "e7a2c4f81b06",
+    "last_success_at":  "2026-10-23T08:16:21.326985+00:00",
+    "window_end":  "2026-10-23",
+    "live_lots":  7824,
+    "cells":  400,
+    "night":  {
+                  "day":  "2026-10-23",
+                  "rows_observed":  11,
+                  "rows_expected":  11,
+                  "partial":  false
+              },
+    "counts":  {
+                   "lots":  52667,
+                   "lot_snapshots":  396406,
+                   "scrape_runs":  680,
+                   "lot_relists":  42621,
+                   "yards":  217
+               },
+    "recent_runs":  [
+                        {
+                            "id":  695,
+                            "started_at":  "2026-10-23T08:16:21.326985+00:00",
+                            "status":  "ok",
+                            "records_parsed":  436,
+                            "watch_label":  "TESLA MODEL 3"
+                        },
+                        {
+                            "id":  694,
+                            "started_at":  "2026-10-23T08:15:57.416508+00:00",
+                            "status":  "ok",
+                            "records_parsed":  1931,
+                            "watch_label":  "FORD F150"
+                        },
+                        {
+                            "id":  693,
+                            "started_at":  "2026-10-23T08:15:55.724430+00:00",
+                            "status":  "ok",
+                            "records_parsed":  11,
+                            "watch_label":  "HONDA ACCORD CROSSTOUR"
+                        },
+                        {
+                            "id":  692,
+                            "started_at":  "2026-10-23T08:15:32.726474+00:00",
+                            "status":  "ok",
+                            "records_parsed":  1778,
+                            "watch_label":  "HONDA ACCORD"
+                        },
+                        {
+                            "id":  691,
+                            "started_at":  "2026-10-23T08:15:30.791429+00:00",
+                            "status":  "ok",
+                            "records_parsed":  30,
+                            "watch_label":  "TOYOTA CAMRY SOLARA"
+                        }
+                    ],
+    "published_at":  "2026-10-23T08:20:10Z"
+}
